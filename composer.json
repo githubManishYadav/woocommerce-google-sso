@@ -1,0 +1,6 @@
+{
+    "name": "manishyadav/woocommerce-google-sso",
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
