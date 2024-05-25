@@ -1,2 +1,2 @@
 # WooCommerce Google SSO
-Allows users to log in or register with Google in WooCommerce.
+WordPress Plugin : Allows users to log in or register with Google in WooCommerce.
